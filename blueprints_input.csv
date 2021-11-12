@@ -1,0 +1,7 @@
+name,length,width,xPos,yPos
+living_room,15,20,2,2
+mudroom,8,8,2,32
+bathroom,8,12,10,32
+kitchen,15,20,2,17
+garage,15,15,22,14
+testy_room,100,15,22,29
